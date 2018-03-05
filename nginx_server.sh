@@ -1,7 +1,7 @@
 #/bin/bash
 
 #author : bill_xiaobin@163.com
-#description : nginx server commnd
+#description : nginx server command
 
 echo "可执行动作start,stop,restart"
 read -p "请输入您需要执行的动作：" name
